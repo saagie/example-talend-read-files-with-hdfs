@@ -1,0 +1,1 @@
+# talend-read-file-with-hdfs
